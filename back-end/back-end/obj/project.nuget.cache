@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "Hjn+ya+E8DwtkxtBquauxLy6DK+zyg6XZ5RK3VABTHSaQtIuVWL3L9AwTOl12/1DkaqkkHxqJtea79zpKDP33g==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\José Luis\\source\\repos\\AngularPeliculas\\back-end\\back-end\\back-end.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\José Luis\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.1.16\\microsoft.netcore.app.host.win-x64.3.1.16.nupkg.sha512"
+  ],
+  "logs": []
+}
